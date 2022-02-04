@@ -1,1 +1,3 @@
-Los que esteis ya aqui subid un archivo con vuestro nombre dentro
+Tareas:
+	web - Sin asignar
+	loop tabla multiplicar - Terminada
